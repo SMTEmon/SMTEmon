@@ -14,8 +14,8 @@
 
 - 🧠 **Core Skills:** I specialize in **C++** and **Python** for logic and algorithms.
 - 💻 **Currently Learning:** The **MERN Stack** (MongoDB, Express, React, Node).
-- 🧩 **Interest:** I enjoy competitive programming and optimizing code efficiency.
-- 🔭 **Working on:** Building full-stack web applications to visualize algorithms.
+- 🧩 **Interest:** I enjoy competitive programming and problem solving.
+- 🔭 **Working on:** Full-Stack, CP.
 
 ---
 
@@ -40,20 +40,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- Streak Stats (Usually more reliable) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMTEmon&theme=tokyonight&hide_border=true" alt="SMTEmon's Streak" />
+</p>
 
-<!-- These stats will update automatically for SMTEmon -->
-<img src="https://github-readme-stats.vercel.app/api?username=SMTEmon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SMTEmon's GitHub stats" />
+<!-- Trophies (Alternative to standard stats) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SMTEmon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="SMTEmon's Trophies" />
+</p>
 
-<br/>
-
-<!-- This shows your most used languages automatically -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMTEmon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<!-- OPTIONAL: If you use LeetCode, replace 'YOUR_USERNAME' below with your actual username and remove the comments to show it.
-<div align="center">
-<img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
-</div>
--->
+<!-- Top Languages (Alternative Server) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMTEmon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
