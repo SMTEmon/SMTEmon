@@ -36,17 +36,16 @@
 
 ### 📊 GitHub Stats
 
-<!-- Streak Stats (Usually more reliable) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMTEmon&theme=tokyonight&hide_border=true" alt="SMTEmon's Streak" />
-</p>
-
 <!-- Trophies (Alternative to standard stats) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SMTEmon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="SMTEmon's Trophies" />
 </p>
 
-<!-- Top Languages (Alternative Server) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMTEmon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/SMTEmon/SMTEmon/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SMTEmon/SMTEmon/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/SMTEmon/SMTEmon/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 </p>
