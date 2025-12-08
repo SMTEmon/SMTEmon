@@ -1,19 +1,15 @@
 <h1 align="center">Hi there, I'm SMTEmon! 👋</h1>
 
 <p align="center">
-  <b>Problem Solver | C++ & Python Enthusiast | MERN Stack Learner</b>
-</p>
-
-<p align="center">
-  I love solving complex logic problems and am currently expanding my skillset into Full Stack Web Development.
+  I love solving complex logic problems and am currently expanding my skillset into Full Stack Web Development & Competitive Programming.
 </p>
 
 ---
 
 ### 🧐 About Me
 
-- 🧠 **Core Skills:** I specialize in **C++** and **Python** for logic and algorithms.
-- 💻 **Currently Learning:** The **MERN Stack** (MongoDB, Express, React, Node).
+- 🧠 **Core Skills:** I know **C++** and **Python** for logic, algorithms.
+- 💻 **Currently Learning:** The **MERN Stack** (MongoDB, Express, React, Node), Interpreter Development.
 - 🧩 **Interest:** I enjoy competitive programming and problem solving.
 - 🔭 **Working on:** Full-Stack, CP.
 
