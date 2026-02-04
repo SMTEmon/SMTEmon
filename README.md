@@ -9,7 +9,7 @@
 ### 🧐 About Me
 
 - 🧠 **Core Skills:** I know **C++** and **Python** for logic, algorithms.
-- 💻 **Currently Learning:** The **MERN Stack** (MongoDB, Express, React, Node), Interpreter Development.
+- 💻 **Currently Learning:** The **MERN Stack** (MongoDB, Express, React, Node), GO, Interpreter Development.
 - 🧩 **Interest:** I enjoy (only 2% of the time) competitive programming and problem solving.
 - 🔭 **Working on:** Full-Stack, CP.
 
