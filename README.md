@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm SMTEmon! 👋</h1>
 
 <p align="center">
-  I like solving complex logic problems (only after solving) and am currently expanding my skillset into Full Stack Web Development & Competitive Programming.
+  I (don't) like solving complex logic problems (only after solving) and am currently (not) expanding my skillset into Full Stack Web Development & Competitive Programming.
 </p>
 
 ---
